@@ -77,7 +77,7 @@
         layer_Layer0 {
             bindings = <
   &none         &none         &none   &none  &bootloader                                                                                &bootloader    &none     &none      &none  &none
-  &none  &none  &none  &none  &none  &none                                            &none  &none  &none  &none  &none  &none
+  &none         &none         &none   &none        &none   &none                                                                 &none      &none      &none     &none      &none  &none
   &none  &none  &none  &none  &none  &none                                            &none  &none  &none  &none  &none  &none
   &none  &none  &none  &none  &none  &none                                            &none  &none  &none  &none  &none  &none
   &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none  &none
