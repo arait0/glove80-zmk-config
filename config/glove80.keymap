@@ -74,7 +74,6 @@
     keymap {
         compatible = "zmk,keymap";
 
-/*
         layer_Layer0 {
             bindings = <
   &none         &none         &none   &none  &bootloader                                                                                &bootloader    &none     &none      &none  &none
@@ -107,10 +106,9 @@
   &none  &trans           &trans            &none           &trans          &trans   &none   &none   &none   &none   &none                      &none            &none           &trans   &trans           &none
             >;
         };
-*/
 
 
-// /*
+/*
         layer_Layer0 {
             bindings = <
   &none  &none  &none  &none  &none                                                          &none  &none  &none  &none  &none
@@ -121,7 +119,7 @@
   &none  &none  &none  &none  &none         &none  &none  &none  &none  &none  &none         &none  &none  &none  &none  &none
             >;
         };
-// */
+*/
     };
 
 };
